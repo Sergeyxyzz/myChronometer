@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">my chronometr</string>
+    <string name="boobs">boobs</string>
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="reset">RESET</string>
+</resources>
